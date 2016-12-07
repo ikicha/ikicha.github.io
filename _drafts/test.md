@@ -1,4 +1,4 @@
 ---
 layout: post
-title: My New Post
+title: test
 ---
